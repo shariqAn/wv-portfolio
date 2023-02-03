@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/wvcalendar/static/css/main.d51678f7.chunk.css",
+    "main.js": "/wvcalendar/static/js/main.4a9862d8.chunk.js",
+    "main.js.map": "/wvcalendar/static/js/main.4a9862d8.chunk.js.map",
+    "runtime-main.js": "/wvcalendar/static/js/runtime-main.28c717e9.js",
+    "runtime-main.js.map": "/wvcalendar/static/js/runtime-main.28c717e9.js.map",
+    "static/js/2.752e3895.chunk.js": "/wvcalendar/static/js/2.752e3895.chunk.js",
+    "static/js/2.752e3895.chunk.js.map": "/wvcalendar/static/js/2.752e3895.chunk.js.map",
+    "index.html": "/wvcalendar/index.html",
+    "static/css/main.d51678f7.chunk.css.map": "/wvcalendar/static/css/main.d51678f7.chunk.css.map",
+    "static/js/2.752e3895.chunk.js.LICENSE.txt": "/wvcalendar/static/js/2.752e3895.chunk.js.LICENSE.txt",
+    "static/media/BG.9a8a21b9.png": "/wvcalendar/static/media/BG.9a8a21b9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28c717e9.js",
+    "static/js/2.752e3895.chunk.js",
+    "static/css/main.d51678f7.chunk.css",
+    "static/js/main.4a9862d8.chunk.js"
+  ]
+}
